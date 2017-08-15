@@ -1,6 +1,9 @@
 Simple-Neural-Network-from-scratch
 
-I implemented a feed forward neural network from scratch. Here some features :
+I implemented a feed forward neural network from scratch. 
+Of course, i haven't coded all the functions possible, for instance, I only coded 4 activation functions. It's isn't complicated but it's going to add more lines and reduces the understanding (that's why i didn't do it) 
+
+Here some features :
 
 - choose the number of hidden layer and neurons
 - add l2 or l1 regularization
