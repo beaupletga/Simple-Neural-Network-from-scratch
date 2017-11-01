@@ -1,7 +1,15 @@
 # Simple-Neural-Network-from-scratch
 
+Here are two version of a neural network, the most advanced one is non-object and the second one use a object implementation very easy to use :
+
+![](https://github.com/beaupletga/Simple-Neural-Network-from-scratch/blob/master/object_implementation.png)
+
+
 I implemented a feed forward neural network from scratch. 
 Of course, i haven't coded all the functions possible, for instance, I only coded 4 activation functions. It's isn't complicated but it's going to add more lines and reduces the understanding (that's why i didn't do it) 
+
+
+
 
 ## Here some features :
 
